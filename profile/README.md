@@ -24,3 +24,13 @@ To get started and contribute to the development, you will need to clone the fol
 * `dapp` - the front-end for the Algorand distributed application and the Reach program to deploy and run smart contracts
 
 After cloning these repositories, head to the `README` and follow the setup instruction for each one.
+
+## Contributions
+
+To make contributions, check out the `dev` branch in the repo you want to make a code change, crate a personal branch, name it starting with `feature/`, and push your commits. When you are ready, open a Pull Request on the `dev` branch.
+
+**Dev rules**
+
+1. Please use Visual Code with `Prettier` extension installed to write changes and make contributions to the repository. This will ensure code standard consistency.
+2. Make small Pull Requests. This will ensure other developers and project maintainers can review your changes and give feedback as quickly as possible.
+3. Never make a Pull Request on `master`. The `master` branch is regularly updated with `dev` only by project maintainers.
