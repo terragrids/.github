@@ -27,7 +27,7 @@ After cloning these repositories, head to the `README` and follow the setup inst
 
 ## Contributions
 
-To make contributions, check out the `dev` branch in the repo you want to make a code change, crate a personal branch, name it starting with `feature/`, and push your commits. When you are ready, open a Pull Request on the `dev` branch.
+To make contributions, check out the `dev` branch in the repo you want to make a code change, create a personal branch, name it starting with `feature/`, and push your commits. When you are ready, open a Pull Request on the `dev` branch.
 
 **Dev rules**
 
