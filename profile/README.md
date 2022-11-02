@@ -22,6 +22,7 @@ To get started and contribute to the development, you will need to clone the fol
 * `api` - the node.js API to interface with the DynamoDB off-chain storage and the Algo indexer API
 * `db-scripts` - a collection of useful development scripts for your local dynamodb instance
 * `dapp` - the front-end for the Algorand distributed application and the Reach program to deploy and run smart contracts
+* `project-contract` - the node.js API and the Reach program to deploy and access smart contracts handling project crowdfunding
 
 After cloning these repositories, head to the `README` and follow the setup instruction for each one.
 
