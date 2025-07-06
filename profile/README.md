@@ -2,8 +2,7 @@
 A machine learning platform for humanity.
 
 # Roadmap
-# Likelihood of Success by Focus Area and Region
-
+## MVP Analysis 
 We evaluated each focus area against factors like data availability, urgency, costs, stakeholder engagement, and existing solutions.
 
 In the UK, the government’s [adaptation framework](https://www.gov.uk/government/publications/climate-adaptation-research-and-innovation-framework/climate-adaptation-research-and-innovation-framework) highlights sectors such as food security, health and community resilience. New national datasets (e.g. the [BGS GeoCoast coastal database](https://www.bgs.ac.uk/news/bgs-launches-new-coastal-datasets-to-inform-coastal-management-planning-and-adaptation-in-the-face-of-climate-change/)) are being published.
