@@ -23,8 +23,9 @@ Based on these inputs, the table below qualitatively rates the success likelihoo
 ## Summary
 
 - Ratings (**High/Medium/Low**) reflect qualitative synthesis.
-- **UK** scores high for **Coastal Adaptation** due to strong data and policy.
+- **UK** scores high for **Coastal Adaptation** and **Agriculture / Rural** due to strong data and policy.
 - **Health & Climate** rated medium across all regions due to urgent needs but practical hurdles.
+- We selected **Agriculture / Rural** for our MVP as the focus area with high score in all 3 regions.
 
 ## Sources
 
