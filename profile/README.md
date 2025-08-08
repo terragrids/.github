@@ -2,7 +2,11 @@
 A machine learning platform for humanity.
 
 # Roadmap
-## MVP Analysis 
+The long term goal for Terragrids is to be a machine learning platform for climate and medical applications. While many systems already exist, Terragrids will provide an open, reproducible and scalable ML pipeline to ingest new datasets, clean data for feature engineering, train different types of models, evaluate model performance, deploy the latest and most performant models and provide on-demand predictions.
+
+Initially, we will focus on small and targeted Minimum Viable Products (MVPs) to build the pipeline and test it on real-world use cases. 
+
+## Climate MVP Analysis 
 We evaluated each focus area against factors like data availability, urgency, costs, stakeholder engagement, and existing solutions.
 
 In the UK, the government’s [adaptation framework](https://www.gov.uk/government/publications/climate-adaptation-research-and-innovation-framework/climate-adaptation-research-and-innovation-framework) highlights sectors such as food security, health and community resilience. New national datasets (e.g. the [BGS GeoCoast coastal database](https://www.bgs.ac.uk/news/bgs-launches-new-coastal-datasets-to-inform-coastal-management-planning-and-adaptation-in-the-face-of-climate-change/)) are being published.
